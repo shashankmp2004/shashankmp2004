@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Padanad</h1>
-<h3 align="center">A passionate developer from India.Currently pursuing B.E from Ramaiah Institue of Technology</h3>
+<h3 align="center">A passionate developer from India</h3>
+  <h3 align="center">Currently pursuing B.E from Ramaiah Institue of Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankmp2004" alt="shashankmp2004" /></a> </p>
 
