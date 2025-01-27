@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankmp2004" alt="shashankmp2004" /></a> </p>
 
-- 📫 How to reach me **shashankmp2004@gmail.com**
+- 📫 How to reach me **shashank.works@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
