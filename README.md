@@ -31,9 +31,9 @@
 
 ---
 
-<h3 align="left">🌟 Portfolio:</h3>
+<h3 align="left">🌟 My Portfolio:</h3>
 <p align="left">
-  <a href="https://shashank-padanad..vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://shashank-padanad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
