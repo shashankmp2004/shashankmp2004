@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Padanad</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h3 align="center">A Passionate Developer, AIML & Cyber Security Enthusiast from India</h3>
 <h3 align="center">🚀 Currently pursuing B.E in CSE- Cyber Security at <em>Ramaiah Institute of Technology</em></h3>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shashankmp2004&theme=onedark&row=1&column=6" alt="GitHub Trophy" /> </p>
