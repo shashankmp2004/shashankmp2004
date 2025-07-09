@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shashankmp2004.shashankmp2004" />
 <h1 align="center">Hi 👋, I'm Shashank Padanad</h1>
 <h3 align="center">A Passionate Developer, AIML & Cyber Security Enthusiast from India</h3>
 <h3 align="center">🚀 Currently pursuing B.E in CSE- Cyber Security at <em>Ramaiah Institute of Technology</em></h3>
