@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shashankmp2004.shashankmp2004" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shashankmp2004.shashankmp2004" /> -->  
 <h1 align="center">Hi 👋, I'm Shashank Padanad</h1>
 <h3 align="center">A Passionate Developer, AIML & Cyber Security Enthusiast from India</h3>
 <h3 align="center">🚀 Currently pursuing B.E in CSE- Cyber Security at <em>Ramaiah Institute of Technology</em></h3>
@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmp2004&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FF6B6B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmp2004&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FF6B6B" />
+
 
 
 
